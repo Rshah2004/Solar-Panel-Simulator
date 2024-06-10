@@ -1,0 +1,44 @@
+{
+  "SolarPanels": [
+    {
+      "Weather": "Spring|Autumn",
+      "Type": "Polycrystalline",
+      "efficiency": 12,
+      "shadingArea": 31,
+      "solar hours": 12,
+      "angle": 12,
+      "solar radiation average": 120,
+      "Total Area": 1281
+    },
+    {
+      "Weather": "Spring|Autumn",
+      "Type": "Monocrystalline",
+      "efficiency": 12,
+      "shadingArea": 31,
+      "solar hours": 12,
+      "angle": 12,
+      "solar radiation average": 120,
+      "Total Area": 1281
+    },
+    {
+      "Weather": "Spring|Autumn",
+      "Type": "Thinfilm",
+      "efficiency": 12,
+      "shadingArea": 31,
+      "solar hours": 12,
+      "angle": 12,
+      "solar radiation average": 120,
+      "Total Area": 1281
+    },
+    {
+      "Weather": "Spring|Autumn",
+      "Type": "Perc",
+      "efficiency": 12,
+      "shadingArea": 31,
+      "solar hours": 12,
+      "angle": 12,
+      "solar radiation average": 120,
+      "Total Area": 1281
+    }
+  ]
+}

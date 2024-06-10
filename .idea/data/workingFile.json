@@ -1,0 +1,10 @@
+{"SolarPanels": [{
+  "Weather": "Winter",
+  "Type": "Polycrystalline",
+  "efficiency": 0.24,
+  "shadingArea": 0,
+  "solar hours": 0,
+  "angle": 0,
+  "solar radiation average": 0,
+  "Total Area": 0
+}]}

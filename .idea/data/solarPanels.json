@@ -1,0 +1,52 @@
+{"SolarPanels": [
+  {
+    "Weather": "Summer",
+    "Type": "Monocrystalline",
+    "efficiency": 48,
+    "shadingArea": 12,
+    "solar hours": 12,
+    "angle": 68,
+    "solar radiation average": 240,
+    "Total Area": 108
+  },
+  {
+    "Weather": "Summer",
+    "Type": "Polycrystalline",
+    "efficiency": 30,
+    "shadingArea": 8,
+    "solar hours": 8,
+    "angle": 10,
+    "solar radiation average": 8,
+    "Total Area": 81
+  },
+  {
+    "Weather": "Summer",
+    "Type": "Perc",
+    "efficiency": 0,
+    "shadingArea": 12,
+    "solar hours": 12,
+    "angle": 40,
+    "solar radiation average": 1,
+    "Total Area": 108
+  },
+  {
+    "Weather": "Summer",
+    "Type": "Perc",
+    "efficiency": 30,
+    "shadingArea": 9,
+    "solar hours": 90,
+    "angle": 80,
+    "solar radiation average": 89,
+    "Total Area": 71
+  },
+  {
+    "Weather": "Summer",
+    "Type": "Perc",
+    "efficiency": 72,
+    "shadingArea": 90,
+    "solar hours": 90,
+    "angle": 39,
+    "solar radiation average": 98,
+    "Total Area": 710
+  }
+]}
