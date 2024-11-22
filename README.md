@@ -3,7 +3,7 @@
 ## Solar Project Simulator
 
 
-A solar power simulator, in which the users can add 
+A solar power simulator, in which the users can add -
 
 
 - Number of solar panels
